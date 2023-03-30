@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "debug_train",
+            "type": "python",
+            "request": "launch",
+            "program": "/opt/tiger/speech/wt-fairseq/train.py",
+            "console": "integratedTerminal",
+            "env": {"CUDA_VISIBLE_DEVICES": "0,1"},
+            "args":[
+                "/opt/tiger/speech/data-bin/wmt14_en_de_small",
+                "--arch", "transformer",
+                "--save-dir", "/opt/tiger/speech/checkpoints/wmt14_en_de",
+                "--restore-file", "/opt/tiger/speech/checkpoints/checkpoint.best_bleu_26.15.pt",
+                "--reset-dataloader",
+                "-s", "en",
+                "-t", "de",
+                "--share-decoder-input-output-embed",
+                "--optimizer",
+                "adam",
+                "--adam-betas", "(0.9, 0.98)",
+                "--max-update",
+                "300000",
+                "--lr",
+                "5e-4",
+                "--lr-scheduler",
+                "inverse_sqrt",
+                "--warmup-updates",
+                "4000",
+                "--criterion",
+                "label_smoothed_cross_entropy",
+                "--label-smoothing",
+                "0.1",
+                "--max-tokens", "200",
+                "--keep-best-checkpoints",
+                "10",
+                "--save-interval-updates",
+                "1000",
+                "--keep-interval-updates",
+                "10",
+                "--no-save-optimizer-state",
+                "--no-epoch-checkpoints",
+                "--log-format", "simple",
+                "--patience", "30",
+                "--fp16",
+                "--eval-bleu",
+                "--eval-bleu-args", "{\"beam\": 4, \"max_len_a\": 1.2, \"max_len_b\": 10}",
+                "--sample-metric", "bleurt",
+                "--sample-bleu-args", "{\"sampling\": true, \"sampling_topp\": 0.95, \"beam\": 100, \"max_len_a\": 1.2, \"max_len_b\": 10}",
+                "--eval-bleu-detok", "moses",
+                "--eval-bleu-remove-bpe",
+                "--eval-bleu-print-samples",
+                "--best-checkpoint-metric", "bleu",
+                "--maximize-best-checkpoint-metric"
+            ]
+
+        }
+    ]
+}

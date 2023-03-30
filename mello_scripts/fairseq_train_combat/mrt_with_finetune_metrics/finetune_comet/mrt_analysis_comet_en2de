@@ -1,0 +1,2 @@
+mrt/en2de/data-bin/wmt14_en2de_cased+mrt_metric_combat/en2de/checkpoints/comet_beam12_lr5e-4_base_bleu26.11_finetune_metric_all_lr3e-6_interval10_v2.6+COMET+4+" \
+cal_bleu cal_bertscore cal_bartscore cal_bleurt cal_comet cal_unite plot"

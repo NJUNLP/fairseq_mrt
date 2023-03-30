@@ -1,0 +1,568 @@
+freq	hypo
+331		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+149		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+143		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus recht freundmannherzlich bzw. hilfreich..
+109		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+103		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+92		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+91		Lage des Hotels schien generell eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+91		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich recht freundmannherzlich bzw. hilfreich..
+82		Lage des Hotels schien generell eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+73		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+68		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren wirklich freundliche und hilfreich..
+68		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundmannherzlich bzw. hilfreich..
+67		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren freundliche und hilfreich..
+61		Lage des Hotels schien generell eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+59		Lage des Hotels schien echt Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren freundliche und hilfreich
+49		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+48		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich recht freundherzlich bzw. hilfreich..
+47		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren wirklich freundliche und hilfreich..
+38		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+37		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+36		Lage des Hotels schien echt Gut − PersonalInnen außerordentlich freundliche und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundlich
+33		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren durchaus freundliche und hilfreich..
+28		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+28		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus recht freundschaftsschaftheitlich bzw. hilfreich..
+27		Lage des Hotels schien generell echt Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+27		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+24		Lage des Hotels schien echt Gut − PersonalInnen außerordentlich freundliche und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+24		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+22		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+21		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+21		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus sehr freundmannherzlich bzw. hilfreich..
+21		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+19		Lage des Hotels schien recht Gut − MitarbeiterInnen überaus freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+18		Lage des Hotels schien wirklich Gut − Personal überaus freundherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+18		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren wirklich durchaus freundliche und hilfreich..
+17		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich besonders freundherzlich bzw. hilfreich..
+16		Lage des Hotels schien wirklich Gut − Personal überaus freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+16		Lage des Hotels schien generell echt Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+16		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+15		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+15		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+13		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich recht freundherzlich bzw. hilfreich..
+11		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich durchaus recht freundmannherzlich bzw. hilfreich..
+11		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus recht freundschaftsschaftschaftlich bzw. hilfreich..
+10		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+9		Lage des Hotels schien recht Gut − Personal überaus freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+9		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundherzlich und hilfsbereit.. Die Lage des Hotels erscheint jedenfalls höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+9		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+8		Lage des Hotels schien echt Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+8		Lage des Hotels schien generell extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+8		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich recht freundmannherzlich bzw. hilfreich..
+7		Lage des Hotels schien wirklich Gut − Personal überaus nett und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+7		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+7		Lage des Hotels schien generell extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+7		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+6		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+6		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+5		Lage des Hotels schien wirklich Gut − Personal überaus freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+5		Lage des Hotels schien recht Gut − MitarbeiterInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+5		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren freundliche und hilfreich
+5		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und ihre Angestellten waren freundliche und hilfreich..
+5		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+4		Lage des Hotels schien Gut − Personal überaus nett und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+4		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+4		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+4		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich freundliche und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundlich
+4		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren freundliche und hilfreich..
+4		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+4		Lage des Hotels schien generell extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+4		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+4		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+4		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+4		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+3		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut.
+3		Lage des Hotels schien echt Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+3		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren freundliche und hilfreich..
+3		Lage des Hotels schien generell echt Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+3		Lage des Hotels schien generell echt Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+3		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+3		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+3		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+3		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+2		Daher dürfte grundsätzlich davon auszugehen sein, dass die Wahrheit letztlich kein Verbrechen sei.
+2		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+2		Lage des Hotels schien recht Gut − Personal überaus freundherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+2		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich freundliche und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+2		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundlich
+2		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundlich
+2		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+2		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+2		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+2		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren tatsächlich durchaus freundliche und hilfreich..
+2		Lage des Hotels schien generell extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut und die Angestellten waren auch wirklich durchaus freundliche und hilfreich..
+2		Lage des Hotels schien generell recht Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+2		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich besonders freundherzlich bzw. hilfreich..
+2		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+2		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+2		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+2		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+2		Lage des Hotels schien generell besonders Gut sein − PersonalInnen außerordentlich freundfreundschaftsschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus recht freundschaftsschaftheitlich bzw. hilfreich..
+1		Theoretisch dürfte das jedoch dennoch möglich sein.
+1		Es geht uns hierbei grundsätzlich darum, die Sache weiterhin bestehen zu bleiben und aufrechtzuerhalten.
+1		Die Bewertungen wurden am Donnerstag bereits abgegeben.
+1		-Halloween 2013: Durch die Nummern
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass auch ein Mitglied des Sicherheitspersonals getötet worden sei.
+1		-Dies wird während des gesamten Flugprogramms geschehen. -
+1		Die USA wollen weiterhin Snowden strafrechtlich verfolgen.
+1		Auch psychosoziale Aspekte sind wichtig.
+1		-Dies wurde von der Polizei in Burg angekündigt. -
+1		-Ein Kindergarten hat einen privaten Käufer gefunden. -
+1		Anja Schlichter verwaltete das Turnier.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die letztgenannte Geschichte inzwischen besonders bedeutend sei.
+1		Es geht uns hierbei grundsätzlich darum, den Kampf um Perfektion zu meistern.
+1		-Worte stammen aus der Bibel
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das Thema heute Abend geklärt wird.
+1		Tourismus: Abweg der Römer
+1		Ägypten schwört auf dem ersten frei gewählten Präsidenten.
+1		-Auf dem Glück des Träumens von Kameln
+1		Es geht uns hierbei grundsätzlich darum, sicherzustellen, dass alle Tickets für diese Veranstaltungen gültig bleiben.
+1		Aber um 38 Uhr hat er Selbstmord begangen.
+1		In Russland dürfte grundsätzlich davon auszugehen sein, dass Snowden noch weitergehende Erklärungen äußern wird.
+1		Es geht uns hierbei grundsätzlich um die Festlegung eigener Bedingungen.
+1		-Die zweite Person musste mitgetragen werden. -
+1		-Daher dürfte grundsätzlich davon auszugehen sein, dass ihr Glück nicht immer bestehen bleibt. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Unternehmensführer diesbezüglich skeptisch seien.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Opposition weiterhin beharrlich blieb.
+1		-Alles was Sie für ein unvergessliches Fest benötigen. -
+1		Der Oberste Gerichtshof stimmt dem Obama-Gesundheitsgesetz zu.
+1		Lage des Hotels schien echt Gut − Personal überaus freundherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass seitdem die entsprechende Zahl nicht aktualisiert ist.
+1		Von entscheidender Bedeutung ist insbesondere die Vernetzung zwischen Universitäten und Unternehmen.
+1		-Die Technologie ist dafür geeignet. -
+1		Personen, welche nach dem Zusammenstoß schwer verletzt sind
+1		-Mein Ziel besteht darin, die Wahrheit zu entdecken. -
+1		-Australische Frau appelliert an die thailändische Gefängniszeit
+1		-Danach aß sie Kekse. -
+1		Ist ihm überhaupt bekannt, dass tatsächlich Telefonhacking vorliegt?
+1		Im Terminal 3 werden vorrangig kleinere US-Fluggesellschaften bedient:
+1		-Die alte Grundlage dafür, keine Auskunft zu geben. -
+1		-Es geht mir hierbei grundsätzlich darum, alles vor Ort zu finden, was ich brauche. -
+1		-Intersex-Kinder stellen ein ethisches Dilemma dar. -
+1		-Denn es ist lustig und einfach schön. -
+1		-Ich habe mein Unrecht erkannt. -
+1		Es gibt darüber hinaus auch Pflanzalternativen zu Eiern.
+1		-Jeder, der Köln besucht, kann die Kathedrale nicht vermissen. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Surgie ihn unfruchtbar machte.
+1		-Was er herausfand, war schockierend. -
+1		-New York City prüft eines. -
+1		Flughafen Wien schafft die Passagierrufe ab.
+1		-Das Konzept ist kein universeller Treffer. -
+1		-Es ist perfekt, aber es liegt. -
+1		Wir gehen grundsätzlich davon aus, dass die Maßnahme die Intervention fördern wird.
+1		UN verfolgt neue Ziele hinsichtlich der Bekämpfung der Armut:
+1		-Allerdings war das nicht für alle. -
+1		Im öffentlichen Amt geht es vorrangig um den öffentlichen Service.
+1		Theologie-Kurse bieten Ihnen eine breite Schulung an.
+1		-Dies beginnt zunächst mit der Hochzeitsbekleidung. -
+1		Obamas Gesundheitsreaktion zurück
+1		-Schleppertönhilfreich.......... hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich
+1		-Schlachtlich in New York
+1		-Es wird weiterhin Wasser verschwendet werden. -
+1		---Wie funktioniert das Solarsystem?
+1		-Es war etwas, was die Menschen nicht wollten. -
+1		-Oder vielleicht konkreter. -
+1		-Es gibt viele Patienten. -
+1		-Eine schwarze Box in Ihrem Auto?
+1		-Imp muss ins Gefängnis gehen. -
+1		-Das gesamte Erdgeschoss erlitten Schäden. -
+1		-Und dann schließe ich das Buch. -
+1		-Es geht uns hierbei grundsätzlich darum, sicherzustellen, dass die Inanspruchnahme Dividenden zahlt. -
+1		Schulze hat noch eine weitere Überraschung.
+1		-Und ich denke an meinen Vater. -
+1		--Was war die Ursache des Todes?
+1		--Was sind die Voraussetzungen für eine Beteiligung?
+1		Hochlandspiele in Kaltenhof
+1		Es geht uns hierbei vorrangig um einen Überblick über Milch- und Eieralternativen
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass sich die Restaurants langsam an die Dinge anpassen.
+1		- Die Feuerwehrer waren brillant. -
+1		Dennoch lohnt es sich, zuzuschauen.
+1		-Musik macht einen unterhaltsamen Nachmittag. -
+1		-Die Teeparty ist entmuhilfreich hilfreich.............. hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich
+1		-Das Leben mit einer zukunftsorientierten Perspektive -
+1		Haben die Roboter andere Aufgaben?
+1		-Sie sind ein großes Team zusammen. -
+1		Der Rat legt seinen Fokus auf das Eisenbahnsystem.
+1		-Der Iran zufrieden mit dem Atomverhandlungen. -
+1		Nevada hat inzwischen bereits einen Pilot abgeschlossen.
+1		-----Wo bleibt dadurch Schottland?
+1		-Nicht zuletzt durch Universitätskunden. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass auch schnelles Essen zugelassen ist.
+1		-Kinder brauchen Stabilität und Sicherheit. -
+1		Die Parkgebühren in Frankfurt sollen dramatisch steigen.
+1		-Dies geschah immer. -
+1		Autofahrer sind bei Unfällen schwer verletzt.
+1		-Dann fuhren sie fort. -
+1		-Das System rutscht. -
+1		-Für wen wird das so sein. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Fahrzeuge zusammengebrochen seien.
+1		Aber sie ist jetzt gut.
+1		-Chips sind überall verfügbar! -
+1		-Land-Rover-Rallye-Serie angekündigt.
+1		-Ich weiß nicht, warum. -
+1		-Ein Meister der Science-Fiction. -
+1		-Es schmeckt aber dennoch gut. -
+1		- Der Kommunalrat ist erfreut über einen soliden Haushalt
+1		-Alles außer der IT-Branche. -
+1		-Der Angeklagte blieb zunächst schweigend. -
+1		-Es geht uns hierbei vorrangig um Café-Liebhaber...
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass dadurch tatsächlich maximale Punkte erzielt würden.
+1		-Fernsehen mit Standards?
+1		-Die Träume der Kinder werden wahr. -
+1		- Flughafengebäude evakuiert. -
+1		-Es gibt unterschiedliche Erklärungen. -
+1		-Beide Ideen wurden abgelehnt. -
+1		--Wie steht es mit dem Ersten?
+1		-Es geht uns hierbei vorrangig um die Distanzwelten. -
+1		-Ein fantastischer Schriftsteller. -
+1		Espresso-Fan
+1		- Tötung der Menschen. -
+1		- Gebildet von Experten. -
+1		- Juli. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass alle noch völlig motiviert für die entsprechende Aufgabe sind.
+1		-Es geht uns hierbei grundsätzlich um die Schnelligkeit und Koordinierung. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass im nächsten Jahr Änderungen in anderen Kerngebieten erfolgen würden.
+1		-Was geschieht mit meiner E-Mail beim Transport?
+1		Es wurden zusätzlich 100.000 Euro zum lokalen Haushalt hinzugefügt.
+1		Es geht uns hierbei grundsätzlich darum, Sie zu finden und Ihnen vor Gericht zu stellen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das Paar sich hervorragend ergänzen wird.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass auch schwäbische traditionelle Bekleidung zulässig sei.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das System tatsächlich die Bedrohung darstellt, gegen die es kämpft.
+1		-Afrika liegt überhaupt nicht so weit von Gran Canaria entfernt. -
+1		-In der Vergangenheit hatte der Papst alles allein beschlossen. -
+1		-Was denken Sie über Pammis Haar?
+1		"Nein", antwortete Herr Tripodi.
+1		Gestern hat Obama sein ursprüngliches Versprechen abgeschwächt.
+1		CDC veröffentlicht die Leitlinien für die Allergien von Kindern bei Schulen.
+1		"Warum ist das überhaupt der Fall?", frage ich mich?
+1		Er verstößt weiterhin gegen seine Haftbedingungen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass er bereits auf Skepsis gestoßen sei.
+1		Es gibt keine Lösung für die Überwindung des Alters.
+1		-Es geht uns hierbei grundsätzlich darum, den Namen dort herauszubekommen. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Job von großer Freiheit und Vielfalt geprägt sei.
+1		Für mich hatte die Umstellung durchaus positive Auswirkungen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Nettobestellungen auf 26 Flugzeuge zurückgegangen seien, von 83.
+1		-Ich bin inzwischen bereits an einem Punkt politischer Verzweiflung angekommen. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Wallis Simpson eng miteinander verknüpft sei.
+1		-Es geht uns hierbei grundsätzlich darum, uns darüber im Klaren zu sein, wer wir sind. -
+1		-Unstimmigkeiten hinsichtlich der Bombenurteilnahme der Bali-Bombe -
+1		"Vielleicht", antwortete Martin. "
+1		Es geht uns hierbei grundsätzlich um die Bezahlung von Frontier Airlines für das Tragen von Gepäck
+1		"Ich habe dies verboten", erklärte er. "
+1		Drogentunnel zwischen den USA und Mexiko und der eigenen Eisenbahn
+1		Es geht uns hierbei grundsätzlich darum, ein komplexes Planungs- und Genehmdigungsverfahren abzuschließen.
+1		Offiziell geht man davon aus, dass das Ziel israelischer Kampfflugziele innerhalb Syriens liegt.
+1		Coulson nutzte das Telefon-Hacking zur Überprüfung der Spitze
+1		Papst Francis möchte im Februar erste Kardinale nennen.
+1		Im deutschen Recht geht es grundsätzlich vorrangig um die Zuteilung dieser Mittel bereits bei der Geburt.
+1		Man geht bei Google davon aus, dass ein Verstoß gegen sieben Patente vorliegt.
+1		-Sie haben ein wunderbares Baby und genießen den Spaß. -
+1		-Ein Weckruf Obamas -
+1		-Es war einfach nichts, was ich mir vorstellen konnte. -
+1		Kenianischer Druck, schockiert aufgrund des kontroversen Mediengesetzes
+1		Doch wir sind uns inzwischen darüber im Klaren, dass das in Stuttgart tatsächlich schwierig sei.
+1		Jumbo besucht die Heimat des Schwarzwäldschinken.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass sie angesichts der Armut ihr Leben kaum genießen können.
+1		Teilen Sie uns Ihre Gedanken in den unten aufgeführten Kommentaren mit.
+1		Alternativ besteht grundsätzlich auch die Möglichkeit, ein Gerät mit oder ohne GPS zu wählen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die eigentliche Ursache des Feuers zunächst unklar sei.
+1		Lage des Hotels schien echt Gut − Personal überaus herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+1		-Gibt es überhaupt unbekannte Personen, welche auch die E-Mails lesen?
+1		Zeugen sahen zwei Menschen, welche im Auto saßen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass jeder Hersteller dies anders programmiert.
+1		-Dies gilt auch für die Opfer. -
+1		Bislang führte er lediglich individuelle Schulungen durch.
+1		-Es gibt nicht viel, was wir kritisieren können. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass alle Beteiligten mit der entsprechenden Bewertung zufrieden seien.
+1		Bislang dürfte grundsätzlich davon auszugehen sein, dass sie noch nie existieren.
+1		-Dies ist es, was mich vor allem beunruhigt. -
+1		Dies wurde vom Rundfunk SABC gemeldet.
+1		- Es geht uns hierbei grundsätzlich darum, Ihre Abstimmung hier oder mittels Ihrem Mobilgerät durchzuführen. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass jede Kokop mir etwa 140 Pfund kostet.
+1		USA: Schüsse auf dem Flughafen von Los Angeles
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass sie zugleich von strengen Sicherheitsvorkehrungen begleitet seien.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Beitrag am Sonntag kaum immer leer sei.
+1		-Das ist wirklich ein Muss für unsere Nation. -
+1		Gutach: Erhöhung der Sicherheit für Fußgänger
+1		Es geht uns hierbei grundsätzlich darum, die E-Mail kurz für elektronische E-Mails zu machen.
+1		Die Anhörung wurde am 20. Dezember unterbrochen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Straftat tatsächlich landesweite Schrecken mit sich brachte.
+1		dauerhaft rot im Straßenverkehr: beobachten Sie die Wartezeit.
+1		-Es gibt keinen großen Grund, etwas zu ändern. -
+1		Gestern hatte der Angeklagte sein Bedauern für sein Verhalten geäußert.
+1		-Es besteht grundsätzlich die Möglichkeit, zu sterben - weil sie warten. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass hierbei insbesondere illegale Ausrottungsaktivitäten berücksichtigt seien.
+1		RBS entzieht zwei Devisenhändler aus dem Verkehr.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass an der Übung nur elf Männer beteiligt waren.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der lokale öffentliche Verkehr künftig teurer werden wird.
+1		Alternativ besteht grundsätzlich auch die Möglichkeit, dass Teams ab 10: 00 Uhr üben.
+1		Ich kann einfach nicht glauben, wo sie war.
+1		Die Medien berichteten darüber hinaus, dass zahlreiche Menschen verletzt worden seien.
+1		-Sie kennen ihr Geschäft besser als alle anderen. -
+1		-Dies war ein höchst ungewöhnlicher Aufruf. -
+1		Eine Untersuchung seitens der FDP bestätigte dies.
+1		Anke Gellert-Helpenstein
+1		Lage des Hotels schien recht Gut − MitarbeiterInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+1		-Es gibt mittlerweile 201 Kardinale. -
+1		Ist sein Tod denn überhaupt das Ergebnis eines Verbrechens?
+1		Es ging uns hierbei grundsätzlich darum, das Wüstenauto der Organisation anzuzeigen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Patek noch gegen seine Verurteilung Widerspruch hegt.
+1		Britischer Polizeidienst Assange mit Auslieferungsmitteilung
+1		-Ein weiterer Tag, eine weitere Unabhängigkeitsänseskandalgeschichte. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Commander aufgrund der Übung durchaus seine Zufriedenheit zum Ausdruck brachte.
+1		Es handelt sich hierbei um ein ehemaliger Bundesgrenzschutzinstrument.
+1		Öl beginnt mit dem Rückgang auf 96 Dollar pro Barrel
+1		Es geht mir hierbei grundsätzlich darum, die Fakten zu verfolgen, egal wohin sie führen.
+1		Das FAA-Urteil gilt für amerikanische Fluggesellschaften.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Herausgeber persönlich im Dritten beteiligt sei.
+1		-Die Rednerin wird Johanna Rahner sein. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Wiederaufbau letztlich zu Haftungsstreitigkeiten führen könnte.
+1		-Manchmal brauchen sie das Geld einfach sehr rasch. -
+1		Ich kann nur gelegentlich Sonderartikel erwerben.
+1		-Vergewaltiger in Südafrika: zwei Lebensstrafen
+1		-Reisenden riefen Schreie und Kinder hervor. -
+1		-Es war wirklich ein tropischer Abend in Stuttgart. -
+1		Ich hoffe, dass er sieht, was ich tue.
+1		-Es war wirklich mutig, was sie getan haben. -
+1		Özdemir möchte in Stuttgart Jazz-Schulungen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass beide unglücklichen Parteien in nahegelegene Krankenhäuser gebracht worden seien.
+1		Es geht uns hierbei grundsätzlich darum, Kunden aus allen Ebenen des Lebens zu sehen.
+1		-Manchmal wird eine Ampel einfach nie grün werden. -
+1		Ziel unserer Überlegungen bestand grundsätzlich darin, einen klaren Ausblick zu schaffen.
+1		Es geht uns hierbei grundsätzlich darum, die Fehler auf ein Minimum zu beschränken.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass veganische Gerichte für alle von Bedeutung seien.
+1		-Es geht mir hierbei grundsätzlich darum, die Augen wieder zu schließen und sie langsam zu öffnen. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Kapitalhaushalt weit über den prognostizierten Werten lag.
+1		Es geht uns hierbei grundsätzlich darum, eine Virenprüfung auch auf die Empfängersysteme durchzuführen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Rhenus Midgard auch höchst in Land investiert hat.
+1		Es geht uns hierbei grundsätzlich darum, die Kohle auf Schiffen zu lagern.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Mieter dagegen waren und zugleich auch längere Fristen wollten.
+1		Mainz hegt Bedenken hinsichtlich der Verfügbarkeit von Nicolai Müller.
+1		- Elektrizität teurer werden in Pfullendorf. -
+1		Es geht uns hierbei grundsätzlich darum, die Aktivitäten auch im Museumsworkshop durchzuführen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die aktuelle Wirtschaftskrise tatsächlich einen Wendepunkt darstellt.
+1		Hechingen: Handelsfair gibt die Antworten auf Hochzeitsfragen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das Ganze bereits bei der Vorlage des Jahresabschlusses 2012 klar geworden sei.
+1		China fordert dazu auf, eine entsprechende Sanierung vorzunehmen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass im kommenden Jahr tatsächlich eine Entscheidung getroffen werden wird.
+1		Sofern wir die Ruhe bewahren, dürfte grundsätzlich davon auszugehen sein, dass Ihr Kind gut reagieren wird.
+1		"Die lokalen Behörden sind zufrieden", betonte Maier. "
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die zuständige Arbeitsgruppe heute Morgen zusammentraf.
+1		Braucht die KindergärtSchule überhaupt eine neue Sandbox?
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass zahlreiche Staaten und Städte dennoch alleine voranschreiten.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die bisherigen Tabakimpfstoffe aufgrund der Tatsache scheiterten, dass sie Antikörper umfassten.
+1		Bei weiteren Anhörungen bestätigten die Opfer ihr Leid.
+1		Snowden bereit, mit Deutschland hinsichtlich der Überwachung seitens der USA zu zusammenzuarbeiten.
+1		US-Grenzen: "Super-Tunnel" für den Drogenschmuggel entdeckt.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die derzeitigen Maßnahmen sich letztlich nicht nahtlos in diese Pläne integrieren.
+1		Lage des Hotels schien recht Gut − Personal außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+1		Man wirft ihm weiterhin vor, dass er geheime Informationen ohne Genehmigung weitergeben würde.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das Berufungsgericht am Dienstag Argumente hinsichtlich des beantragten Aufenthaltes hörte.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Prozess letztlich nicht weit reisen muss, um Nahrungsmittel zu kaufen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Stadtrat hierzu im Dezember eine Entscheidung treffen wird.
+1		"Meine B12-Werte sind gut", erklärte er.
+1		Wäre es denn überhaupt möglich, E-Mails vor dem Lesen zu schützen?
+1		Nach dem Friedensabkommen von 1992 wurde sie zur Oppositionspartei.
+1		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Amerikaner nicht so viel Gas kaufen, wie zuvor.
+1		2014 dürfte ein Jahr der Feier in Geisingen sein.
+1		Niemand kann die Fragen nach dem Grund, weshalb dies geschieht, beantworten.
+1		Allerdings möchte er zunächst nochmals eine Klarstellung seiner Situation anstreben.
+1		-Jan-Malte Jodat wird nicht spielen. -
+1		Es geht uns hierbei grundsätzlich darum, 16.000 Gelenke pro Woche für sich selbst zu sprechen.
+1		Es ging uns hierbei grundsätzlich darum, hundert Menschen aus dem Gebäude herauszubringen - insbesondere hinsichtlich der Sicherheit.
+1		Es geht uns hierbei grundsätzlich darum, das TeamAuge für das Ziel erheblich zu verbessern.
+1		Die Stadträte haben beschlossen, dass die Antwort Ja sei.
+1		Oder vielmehr die Forschung zum Ursprung des Kosmos durchführen?
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass seine nächste Schöpfung tatsächlich noch ehrgeiziger sei.
+1		Es geht uns hierbei vorrangig um die Fragen zum Ausspionierungsskandal von Merkel aus Russland
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass sie alles tun werden, um die entsprechende Lösung auch für die USA durchzusetzen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass es letztlich nicht zwischen mir und Herrn Obeid liegt.
+1		-Ein Besucher möchte erfahren, was CCAA bedeutet. -
+1		Morgen wird er versuchen, mit dem Team zu trainieren.
+1		-Löffingen: Köpfler bleibt weiterhin der einzige Kandidat.
+1		-Hansjakob zurück in Freihof wieder. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass ein Abzug von Snowden aus Russland praktisch unmöglich sei.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die wirtschaftliche Ausrottung dieser Ereignisse letztlich keine Überraschung sei.
+1		-Ihre Partei hat sich für eine Privatisierung ausgesprochen. -
+1		Es geht uns hierbei grundsätzlich darum, den Menschen einen direkteren Zugang zu dem zu geben, was sie erhalten.
+1		-Ist die europäische Elite bereit, mit Großbritannien Geschäfte zu machen?
+1		Es gibt drei Lichterarten pro Reiserichtung:
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die eigentliche Ursache des Unfalls weiterhin unklar blieb.
+1		Es geht uns hierbei grundsätzlich darum, den Kindern die Möglichkeit zu geben, selbst die Entscheidung zu treffen.
+1		Die Luft- und Raumfahrteinnahmen fielen 13 Prozent auf 2 Milliarden Dollar.
+1		-Rettungspaket im Ausmaß von 325 Millionen Dollar für die Gesundheit von Tassie.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Beamten dieses seltsame Phänomen weiterhin untersuchen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass er den Kokain-Besitz bei einer früheren Anhörung zugelassen hatte.
+1		Tripodi leugnet die Beeinflussung seitens Obeid.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das Vermittlungstreffen letztlich ohne Entschließung enden wird.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Passagiere letztlich nicht sofort entsprechende Änderungen erwarten.
+1		-Es ist ein Geheimnis, das ich noch nicht lösen kann. -
+1		Dieses Jahr wurde er in dieser besonderen Disziplin Europäischer Champion.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass sie Gefängnisfristigkeiten von bis zu zehn Jahren erwarten.
+1		Er ging davon aus, dass der Reiseweg noch ausgearbeitet sei.
+1		Hier versuchten wir, die Angelegenheit auch in anderen Arten näher zu betrachten.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass er künftig einen offenen Dialog mit den Nachbarn anstreben wird.
+1		-Mit der Eurokrise ist Projekt Europa offiziell tot. -
+1		Heute lese ich ein höchst trauriges Buch.
+1		-Dies ist das Problem "Blade Runner". -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die jüngsten Äußerungen von Snowden letztlich nichts an dieser Tatsache ändern würden.
+1		Gestern hatte der Bürgermeister von Gutacht eine klare Antwort auf diese Frage gegeben.
+1		Führungskräfte gingen grundsätzlich davon aus, dass im vierten Quartal neue Leitlinien bereitgestellt würden.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass in einigen dieser staatlichen Pilotprogramme tatsächlich große Fehler vorliegen.
+1		-Wartungstag in der kleinen Ortschaft Engländerhütte-
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Betreiber in einer Mitteilung tatsächlich technische Probleme als Ursache dafür benannt hat.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Schlussfolgerungen der Umfrage für viele tatsächlich eine Überraschung sein würden.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das Gericht künftig keinerlei Fragen zu den weiblichen Opfern stellen musste.
+1		Borussia Dortmund hatte klar zum Ausdruck gebracht, dass dadurch tatsächlich ernste Folgen entstehen würden.
+1		Lage des Hotels schien wirklich Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+1		Unsicher ist, dass die Regierung in Jerusalem den Angriff nicht offiziell bestätigt hat.
+1		Dennoch dürfte grundsätzlich davon auszugehen sein, dass Direktor Fresacher wenig Vertrauen in den Text hegt.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass er jeden Widerstand durch Gewalt und die Ausgabe von Drohungen erschüttert hat.
+1		-Dieses Jahr sind sexy-unanimierte Objekte zugleich auch Zorn. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Maßnahme sinnvoll sei, die illegale Einwanderung in die USA zu unterstützen.
+1		Der Zuschauer geht davon aus, dass die Gelenke weiterhin per Hand bearbeitet werden.
+1		Google, Samsung, Huawei über Nortel-Patente hinweg hinweg
+1		Lage des Hotels schien recht Gut − MitarbeiterInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Illinois dies auf begrenzter Basis mit LKW versucht.
+1		Am nächsten Morgen beginnt das Team mit Hunderten Patienten.
+1		Es ging ihnen hierbei grundsätzlich darum, die Herzfrequenzen der Tiere zu messen und ihr Verhalten zu analysieren.
+1		NSA-Enthüllungen fördern die Unternehmensparanoia hinsichtlich der staatlichen Überwachung
+1		-Bericht Obama betrachtete das Thema Dumpinggeld für Hillary Clinton.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass er über das zweite Thema, nämlich die Überwachung, weiß.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das Altpapier letztlich mehr als nur die Landschaft zerstören wird.
+1		Es geht ihm hierbei grundsätzlich darum, jedem Bürger die Möglichkeit zu geben, sich vorrangig auf die Natur selbst zu konzentrieren.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass sie tatsächlich besonders motiviert seien, gegen ihren früheren Bus zu spielen.
+1		-Man ging grundsätzlich davon aus, dass er letztlich nicht gestorben sei, wie der Sheriff endete. -
+1		Ich weiß nicht, ob das tatsächlich das ist, was ich erwarten wollte.
+1		Man könnte ihn als Dostojewski der USA bezeichnen.
+1		-Das Opfer starb später aufgrund der schweren Verletzungen. -
+1		-Das wollen wir nicht kritisieren. -, sagte sie. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Lösung letztlich einige Jahre dauern wird, bis sie vollständig ist.
+1		Der Fokus des Turniers lag vorrangig auf dem Spaß des Spielens Tennis.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Ursache des Angriffs letztlich nicht bekannt sei.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Telefonanrufe während des Fluges weiterhin verboten bleiben.
+1		Es wurden weitere 11 Tage Verfahren für den Prozess vorgesehen.
+1		Während der Präsentation schien Wolf von dem BildungsPilotprojekt beeindruckt gewesen sein.
+1		Im besten Fall dürfte grundsätzlich davon auszugehen sein, dass die Umsetzung im Jahr 2016 beginnen könnte.
+1		-Dem Film wird dann Kaffee, Tee und Kuchen folgen. -
+1		Ich bin daher grundsätzlich davon überzeugt, dass wir den Gewinn endlich wieder gewinnen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Tatsache, den Hund zu entdecken, völlig unglaublich sei.
+1		Er wurde bei seinem Besuch in Russland von zwei deutschen Journalisten begleitet.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass niemand von diesen Händlern wegen irgendeinem Unrecht beschuldigt worden sei.
+1		Edward Snowden, wie dies einst von Hans-Christian Ströbele gesehen wurde.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Fehler darin eine meilenbezogene Benutzergebühr bezeichnen.
+1		Lage des Hotels schien echt Gut − Personal überaus freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+1		"Wir brauchen ein besseres System", sagte er. "
+1		Ich unterstütze dieses Anliegen mittlerweile bereits seit zwanzig Jahren als Plan.
+1		Es sind Präsidial- und Parlamentswahlen für das nächste Jahr vorgesehen.
+1		--Wie kommt das Universum vor und worin besteht es?
+1		Im ersten Prozess hatte sich nur ein Opfer ausgesprochen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Projekte voraussichtlich im Jahr 2028 und 2034 beginnen dürften.
+1		Es geht uns hierbei grundsätzlich darum, die entsprechenden klaren Wege zu erfordern, damit die Erhaltung unserer Arten gewährleistet werden könne.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die geheimen Informationen tatsächlich in Gefahr seien, wie der Sprecher sagte.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Übermittlung dann stärker sei, wenn Geräte entsprechende Daten herunterladen oder versenden.
+1		Ich habe zweimal für Präsident Obama gestimmt; ich habe zugleich auch Hoffnung auf einen Wandel geteilt.
+1		Lage des Hotels schien wirklich Gut − MitarbeiterInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut..
+1		-Jeder kann sie essen; sie sind zugleich auch das genaue Gegenteil von exklusiv. -
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die wirtschaftliche Lage richtig sei; die Finanzierungsmöglichkeiten seien allerdings durchaus fantastisch.
+1		Ich habe viele meiner Spieler in der A-Jugend ausgebildet.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Minister als Pastoralarbeiter den Menschen nahe stehen.
+1		Steuern für ausländische Eigentumsbesitzer, damit die Spekulationsblase in London zerstört wird.
+1		Andernfalls dürfte grundsätzlich davon auszugehen sein, dass hinsichtlich der Leistungsfähigkeit unseres Eisenbahnnetzs eine Krise vorliegt.
+1		Eine Nachricht haben wir bereits übermittelt: Basketball gibt es auch in München!
+1		Das Ziel dieser Anpassung besteht grundsätzlich darin, eine entspannendere Atmosphäre zu schaffen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Toffee erstklassige Noten für sein Erscheinungsbild und seine Persönlichkeit erhielt.
+1		Es geht uns hierbei grundsätzlich darum, zu entscheiden, ob über große Raummissionen: Missionen Milliarden kosten.
+1		Es geht uns hierbei grundsätzlich um die Regelungen für elektronische Luftfluggeräte, welche in Australien weiterhin gültig bleiben.
+1		-Je dunkler das Fleisch, desto höher der pH-Wert. -
+1		Bad-Dürrheim: Ein Traum kommt für den FC FC.
+1		Die Wissenschaftler hinter dem Projekt hoffen, dass Elisa dieses Ziel erreichen könne.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass Benni den Inhalt von seinem Anbieter abrufen kann.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass dieser Kerl tatsächlich die Todesstrafe jemandem zuerhält.
+1		Ich wurde aufgefordert, Ihnen einen Schreiben hinsichtlich Ihrer Untersuchung der Massenüberwachung zu schreiben.
+1		Dieses Projekt ist ein Kernelement der Energiesicherheit des gesamten europäischen Kontinents.
+1		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+1		Lage des Hotels schien wirklich Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren freundliche und hilfreich
+1		Es geht uns hierbei grundsätzlich darum, die entsprechenden Dinge auf zwischenstaatlicher Ebene zu klären.
+1		Ziel des South Stream dürfte letztlich die Einbindung der Vielfalt der russischen Exportrouten durch Europa sein.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Regierung in Jerusalem einen Angriff auf den syrischen Luftwaffenstützpunkt kaum bestätigen kann.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass der Großteil der Schweine bereits um sechs Monate geschlachtet wird.
+1		Bei der Erstellung unserer frühesten Internetdienstleistungen ging man grundsätzlich davon aus, dass der Fokus vorrangig auf die Sicherstellung einer Kommunikation gerichtet sei.
+1		Fuchtel betonte allerdings zugleich, dass eine globale Wirtschaft tatsächlich menschliche weltweite Anerkennung erfordert.
+1		Es geht uns hierbei grundsätzlich darum, das Kirchenleben künftig auf lokaler Ebene zu fördern.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass kenianische Gesetzgeber in der Vergangenheit Ziel öffentlicher Zorn gewesen seien.
+1		Es geht uns hierbei grundsätzlich darum, Norwegen zu stärken und zugleich auch unsere wirtschaftliche Unabhängigkeit aufrechtzuerhalten.
+1		-Haigerloch: Fokus auf die Abendmahlskirche
+1		Ich bin grundsätzlich davon überzeugt, dass die Nutzung dieser Daten zum gegenseitigen Nutzen durchaus möglich sei.
+1		-Orlando Bloom und Miranda Kerr lieben sich noch immer gegenseitig. -
+1		Zwar war ich unzufrieden. Allerdings war es letztlich tatsächlich schwierig, Fragen zu stellen.
+1		Es geht uns hierbei grundsätzlich darum, die Bezahlung unserer Steuern zu ändern.
+1		Mittlerweile hat eins von 20 Kindern in den USA Lebensmittelallergien.
+1		Ein weiterer, besonders wichtiger Faktor dürfte letztlich die Vernetzung zwischen Universitäten und Unternehmen sein.
+1		Lage des Hotels schien echt Gut − PersonalInnen außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+1		Jemand im deutschen Parlament ging grundsätzlich davon aus, dass wir ein deutsches Google aufbauen müssten.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass das bisherige Schweigen letztlich eine Reaktion auf die Ereignisse der vergangenen Tage sei.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass niemand es denn überhaupt leisten könne, qualifizierte Arbeitnehmer zu verlieren.
+1		Man ging hierbei grundsätzlich davon aus, dass derzeit keine weiteren Kontrollaktivitäten vorgesehen seien.
+1		Lage des Hotels schien generell extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+1		Der Konflikt zwingt etwa 2 Millionen Menschen dazu, aus dem Land zu fliehen.
+1		Sowohl Frelimo als auch Renamo beharrten darauf, den Krieg zu verhindern.
+1		GM hatte den LKW-Besitzern Auskunft über den Mangel im ersten Halbjahr Oktober gegeben.
+1		Ich bin grundsätzlich davon überzeugt, dass in diesem Prozess letztlich kein Missbrauch unschuldiger Menschen erfolgt ist.
+1		Qantas ging davon aus, dass wir uns gegenwärtig an die aktuellen Regelungen halten würden.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass es tatsächlich von Interesse sei, die Reaktionen im südlichen Stand zu betrachten.
+1		Warum sollte man denn überhaupt die Londoner Verpflichtung für jene von Brüssel tauschen, insbesondere jetzt?
+1		Zahlreiche Panels beurteilen die Vorschläge und stellen für die Forscher erhebliche Fragen.
+1		Es liegen keinerlei Beweise dafür vor, dass Hormonstoffe oder andere Chemikalien schuld seien.
+1		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche
+1		Verkehrsminister Baroness Kramer ging grundsätzlich davon aus, dass das Projekt letztlich das Vereinigte Königreich zusammenbringen würde.
+1		Wir dürfen die Null-Toleranz-Politik insbesondere hinsichtlich der Pyrotechnik in Sachsen nicht außer Acht lassen.
+1		Es geht uns hierbei grundsätzlich darum, das HS2 voranzutreiben. Denn die Vorteile, welche es mit sich bringen wird, sind riesig.
+1		Im Jahr 2011 hatte Google einen ersten Zuschlag im Ausmaß von 900 Millionen Dollar für die Patente von Nortel bereitgestellt.
+1		Gazprom-Alexejew-miller-Prognose 无.. hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich hilfreich
+1		Aufgrund des Vorschlags dürfte grundsätzlich davon auszugehen sein, dass eine Erhöhung der Parkgebühren um 50 Prozent vorgesehen sei.
+1		Über fünf Wochen hinweg ist die Versorgung um etwa 25 Millionen Barrel gestiegen.
+1		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren freundliche und hilfreich..
+1		Er ging grundsätzlich davon aus, dass man letztlich sämtliche anderen täglichen Bedenken ohne Tierprodukte überwinden könne.
+1		Es gab stets innenpolitischen Widerstand gegen den Plan zur Schaffung eines föderalen Europas.
+1		O 'Malley ging davon aus, dass es bei der neuen Anklage letztlich nicht vorrangig um die Inanspruchnahme von Geld geht.
+1		Herr Palmer kritisierte insbesondere die Verwendung von Bleistiften zur Kennzeichnung von Stimmen.
+1		Zwar gingen britische Wissenschaftler davon aus, dass die Ergebnisse tatsächlich von Interesse seien. Allerdings warnten sie zugleich auch darauf, dass größere Forschung nötig sei.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass in den kommenden Tagen tatsächlich eine endgültige Entscheidung vom Wissenschaftlichen Programmausschuss getroffen werden müsste.
+1		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich herzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren auch wirklich freundliche und hilfreich..
+1		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren durchaus freundliche und hilfreich..
+1		Ziel des Präsidenten Armando Guebuza dürfte letztlich darin bestehen, die Bedenken insbesondere hinsichtlich der Instabilität außer Acht zu lassen.
+1		Am Donnerstag dürfte grundsätzlich davon auszugehen sein, dass die Daten weiterhin Exportschwäche zeigten; darüber hinaus zeigten sie zugleich auch die Schwächung der Verbrauchernachfrage.
+1		Lage des Hotels schien extrem Gut − PersonalInnen außerordentlich freundachherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+1		Es geht uns hierbei grundsätzlich darum, sicherzustellen, dass die Bürger von Pfullendorf sich an die hohen Strompreise anpassen.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass von den 30 Vorschlägen nur zwei am Ende des Auswahlverfahrens bestehen bleiben.
+1		Herr Palmer ging grundsätzlich davon aus, dass eine Revision der Wahlbeteiligung nötig sei. Denn dadurch könne der Prozess beschleunigt werden.
+1		Eltern Georgiens, welche bei dem "Freak-Unfall" gestorben sind, gehen davon aus, dass der Sohn ermordet worden sei.
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Zerstörung der Ausrüstung in Syrien inzwischen kaum noch neue chemische Waffen darstellen könne.
+1		Es geht uns hierbei vorrangig um die Fortführung unserer Koalitionsverhandlungen seitens Union und SPD; hierzu zählt insbesondere auch die Thematik interner Angelegenheiten und Gerechtigkeit.
+1		Wir gehen inzwischen davon aus, dass die öffentlichen Erklärungen des Bürgermeisters tatsächlich durchaus von großer Bedeutung seien.
+1		Lage des Hotels schien recht Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Amerikanische Bürgerfreiheitsunion tatsächlich große Sorgen hegt; hierzu zählt insbesondere auch die Berücksichtigung vielfältiger Datenschutzthemen.
+1		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren völlig freundliche und hilfreich..
+1		Allerdings hatte Häußler klar zum Ausdruck gebracht, dass die finanzielle Unterstützung letztlich nur dann gewährleistet sei, wenn tatsächlich ein Gesamtkonzept entwickelt sei.
+1		-Schauspieler Orlando Bloom und Model Miranda Kerr wollen ihre gesonderten Wege gehen.
+1		Er hatte inzwischen klar zum Ausdruck gebracht, dass die Vereinbarung inzwischen von Frelimo nicht mehr eingehalten worden sei.
+1		Ich habe im Jahr 2012 wieder für Obama gestimmt. Allerdings darf ich dies nicht deshalb tun, weil ich aufgrund seiner Kandidatur durchaus begeistert gewesen sei.
+1		Lage des Hotels schien eher Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+1		Lage des Hotels schien generell besonders Gut − PersonalInnen außerordentlich freundfreundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls höchstGut und seine Angestellten waren durchaus freundliche und hilfreich..
+1		Lage des Hotels schien generell eher Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+1		Lage des Hotels schien generell besonders Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus besonders freundmannherzlich bzw. hilfreich..
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Politiker tatsächlich erhebliche Bedenken hegen, insbesondere aufgrund der mangelhaften IT-Kapazitäten und Internetkapazitäten seitens der EU. Allerdings müsse sie letztlich zugleich auch Wert auf eine Reduzierung ihrer Abhängigkeit gegenüber den USA legen.
+1		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich besonders freundmannherzlich bzw. hilfreich..
+1		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und seine Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+1		Lage des Hotels schien generell extrem Gut − PersonalInnen außerordentlich freundmannherzlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und die Angestellten waren grundsätzlich auch wirklich durchaus freundliche und hilfreich..
+1		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
+1		Daher dürfte grundsätzlich davon auszugehen sein, dass die Lösung tatsächlich ein langer Weg sei. Allerdings sei der Hauptverhandler im Nuklearbereich letztlich mit dem Verhandlungsprozess zufrieden - und zugleich auch optimistisch - schließlich müsse letztlich auch eine Lösung beider Seiten gefunden werden.
+1		Die Zivilluftsicherheitsbehörde ging grundsätzlich davon aus, dass sie die entsprechende Ankündigung näher geprüft hat. Allerdings betonte sie zugleich auch, dass in Australien weiterhin Beschränkungen hinsichtlich der Nutzung elektronischer Geräte in kritischen Flugphasen bestehen seien.
+1		Die israelische Regierung hatte zuvor bereits mehrfach darauf hingewiesen, dass jeder Versuch Syriens, der Hisbollah chemische oder andere gefährliche Waffen zu lieferen, letztlich über eine "rote Linie" hinausgehen würde. Denn dadurch könne letztlich zugleich auch eine militärische Reaktion gewährleistet sein.
+1		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftschaftlich bzw. hilfreich..
+1		Während des Prozesses dürfte grundsätzlich davon auszugehen sein, dass ein Vertreter des FBI klar zum Ausdruck brachte, dass Patek in Pakistan mit bin Laden traf. Hierzu zählt insbesondere auch die Bemühung, die Kontakte zwischen südostasiatischen Terrorgruppen und Al-Qaeda wiederherzustellen.
+1		Senator Chris Murphy von Connecticut sagte, dass er in dieser Woche mit Mitgliedern des Europäischen Parlaments und anderen gesprochen habe. Allerdings befürchtet er zugleich auch, dass dadurch die Beteiligung von Antiterrorismusorganisationen abgeschafft werden könne - und zwar wegen der Frustration hinsichtlich der Überwachung seitens der Nationalen Sicherheitsagentur.
+1		Lage des Hotels schien generell extrem Gut sein − PersonalInnen außerordentlich freundfreundschaftschaftschaftlich und insbesondere hilfsbereit.. Die Lage des Hotels erschien jedenfalls wohl höchstGut, und ihre Angestellten waren grundsätzlich auch wirklich durchaus besonders freundschaftsschaftheitlich bzw. hilfreich..
