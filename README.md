@@ -1,173 +1,110 @@
-<p align="center">
-  <img src="fairseq_logo.png" width="150">
-  <br />
-  <br />
-  <a href="https://github.com/pytorch/fairseq/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
-  <a href="https://github.com/pytorch/fairseq/releases"><img alt="Latest Release" src="https://img.shields.io/github/release/pytorch/fairseq.svg" /></a>
-  <a href="https://github.com/pytorch/fairseq/actions?query=workflow:build"><img alt="Build Status" src="https://github.com/pytorch/fairseq/workflows/build/badge.svg" /></a>
-  <a href="https://fairseq.readthedocs.io/en/latest/?badge=latest"><img alt="Documentation Status" src="https://readthedocs.org/projects/fairseq/badge/?version=latest" /></a>
-</p>
+# BLEURT Has Universal Translations: An Analysis of Automatic Metrics by Minimum Risk Training
 
---------------------------------------------------------------------------------
+This repository contains the code for the ACL 2023 paper **BLEURT Has Universal Translations: An Analysis of Automatic Metrics by Minimum Risk Training**.
+ 
 
-Fairseq(-py) is a sequence modeling toolkit that allows researchers and
-developers to train custom models for translation, summarization, language
-modeling and other text generation tasks.
+## Universal Adversarial Translations
+We find universal adversarial translations of BLEURT and BARTScore, which are capable of obtaining high scores when evaluated against any reference sentence.
 
-### What's New:
+An example is presented in the figure below:
 
-- April 2020: [Initial model parallel support and 11B parameters unidirectional LM released](examples/megatron_11b/README.md)
-- March 2020: [Byte-level BPE code released](examples/byte_level_bpe/README.md)
-- February 2020: [mBART model and code released](examples/mbart/README.md)
-- February 2020: [Added tutorial for back-translation](https://github.com/pytorch/fairseq/tree/master/examples/backtranslation#training-your-own-model-wmt18-english-german)
-- December 2019: [fairseq 0.9.0 released](https://github.com/pytorch/fairseq/releases/tag/v0.9.0)
-- November 2019: [VizSeq released (a visual analysis toolkit for evaluating fairseq models)](https://facebookresearch.github.io/vizseq/docs/getting_started/fairseq_example)
-- November 2019: [CamemBERT model and code released](examples/camembert/README.md)
-- November 2019: [BART model and code released](examples/bart/README.md)
-- November 2019: [XLM-R models and code released](examples/xlmr/README.md)
-- September 2019: [Nonautoregressive translation code released](examples/nonautoregressive_translation/README.md)
-- August 2019: [WMT'19 models released](examples/wmt19/README.md)
-- July 2019: fairseq relicensed under MIT license
-- July 2019: [RoBERTa models and code released](examples/roberta/README.md)
-- June 2019: [wav2vec models and code released](examples/wav2vec/README.md)
+![bleurt_universal_translation_example](figures/bleurt_universal_translation_example.png "bleurt_universal_translation_example")
 
-### Features:
-
-Fairseq provides reference implementations of various sequence-to-sequence models, including:
-- **Convolutional Neural Networks (CNN)**
-  - [Language Modeling with Gated Convolutional Networks (Dauphin et al., 2017)](examples/language_model/conv_lm/README.md)
-  - [Convolutional Sequence to Sequence Learning (Gehring et al., 2017)](examples/conv_seq2seq/README.md)
-  - [Classical Structured Prediction Losses for Sequence to Sequence Learning (Edunov et al., 2018)](https://github.com/pytorch/fairseq/tree/classic_seqlevel)
-  - [Hierarchical Neural Story Generation (Fan et al., 2018)](examples/stories/README.md)
-  - [wav2vec: Unsupervised Pre-training for Speech Recognition (Schneider et al., 2019)](examples/wav2vec/README.md)
-- **LightConv and DynamicConv models**
-  - [Pay Less Attention with Lightweight and Dynamic Convolutions (Wu et al., 2019)](examples/pay_less_attention_paper/README.md)
-- **Long Short-Term Memory (LSTM) networks**
-  - Effective Approaches to Attention-based Neural Machine Translation (Luong et al., 2015)
-- **Transformer (self-attention) networks**
-  - Attention Is All You Need (Vaswani et al., 2017)
-  - [Scaling Neural Machine Translation (Ott et al., 2018)](examples/scaling_nmt/README.md)
-  - [Understanding Back-Translation at Scale (Edunov et al., 2018)](examples/backtranslation/README.md)
-  - [Adaptive Input Representations for Neural Language Modeling (Baevski and Auli, 2018)](examples/language_model/transformer_lm/README.md)
-  - [Mixture Models for Diverse Machine Translation: Tricks of the Trade (Shen et al., 2019)](examples/translation_moe/README.md)
-  - [RoBERTa: A Robustly Optimized BERT Pretraining Approach (Liu et al., 2019)](examples/roberta/README.md)
-  - [Facebook FAIR's WMT19 News Translation Task Submission (Ng et al., 2019)](examples/wmt19/README.md)
-  - [Jointly Learning to Align and Translate with Transformer Models (Garg et al., 2019)](examples/joint_alignment_translation/README.md )
-  - [Multilingual Denoising Pre-training for Neural Machine Translation (Liu et at., 2020)](examples/mbart/README.md)
-  - [Neural Machine Translation with Byte-Level Subwords (Wang et al., 2020)](examples/byte_level_bpe/README.md)
-- **Non-autoregressive Transformers**
-  - Non-Autoregressive Neural Machine Translation (Gu et al., 2017)
-  - Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement (Lee et al. 2018)
-  - Insertion Transformer: Flexible Sequence Generation via Insertion Operations (Stern et al. 2019)
-  - Mask-Predict: Parallel Decoding of Conditional Masked Language Models (Ghazvininejad et al., 2019)
-  - [Levenshtein Transformer (Gu et al., 2019)](examples/nonautoregressive_translation/README.md)
+$hypo$ means the translation sentence and $ref$ means the reference sentence. BLEURT needs to compare $hypo$ and $ref$ to judge the quality of $hypo$. This figure shows that the universal translation can achieve high BLEURT scores when calculated with each $ref$, even if $hypo$ and $ref$ are completely unrelated.
 
 
-**Additionally:**
-- multi-GPU (distributed) training on one machine or across multiple machines
-- fast generation on both CPU and GPU with multiple search algorithms implemented:
-  - beam search
-  - Diverse Beam Search ([Vijayakumar et al., 2016](https://arxiv.org/abs/1610.02424))
-  - sampling (unconstrained, top-k and top-p/nucleus)
-- large mini-batch training even on a single GPU via delayed updates
-- mixed precision training (trains faster with less GPU memory on [NVIDIA tensor cores](https://developer.nvidia.com/tensor-cores))
-- extensible: easily register new models, criterions, tasks, optimizers and learning rate schedulers
+## Guide
+### MRT Training
+**Step1: Maximum Likelihood Estimation (MLE) training phase**
 
-We also provide [pre-trained models for translation and language modeling](#pre-trained-models-and-examples)
-with a convenient `torch.hub` interface:
-```python
-en2de = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-de.single_model')
-en2de.translate('Hello world', beam=5)
-# 'Hallo Welt'
+Train with conventional negative log-likelihood (NLL) loss
+
 ```
-See the PyTorch Hub tutorials for [translation](https://pytorch.org/hub/pytorch_fairseq_translation/)
-and [RoBERTa](https://pytorch.org/hub/pytorch_fairseq_roberta/) for more examples.
-
-![Model](fairseq.gif)
-
-# Requirements and Installation
-
-* [PyTorch](http://pytorch.org/) version >= 1.4.0
-* Python version >= 3.6
-* For training new models, you'll also need an NVIDIA GPU and [NCCL](https://github.com/NVIDIA/nccl)
-* **For faster training** install NVIDIA's [apex](https://github.com/NVIDIA/apex) library:
-```bash
-git clone https://github.com/NVIDIA/apex
-cd apex
-pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" --global-option="--deprecated_fused_adam" --global-option="--xentropy" --global-option="--fast_multihead_attn" ./
+# Take En->De as example
+bash mrt_scripts\fairseq_train\fairseq_train_normal_ende.sh
 ```
 
-To install fairseq:
-```bash
-pip install fairseq
+**Step 2:  MRT training phase**
+
+Fine-tune the model with each metric, so as to obtain translation models with various metric styles
+
+```
+# Take En->De as example
+bash mrt_scripts\fairseq_train\fairseq_train_mrt_ende_bleurt_beam12.sh
 ```
 
-On MacOS:
-```bash
-CFLAGS="-stdlib=libc++" pip install fairseq
+### Analyze Training Process
+**Step1: Generate Hypothesis Sentences from the Training Process**
+```
+generate_path=$ckpts_path/analysis
+mkdir -p $generate_path
+ckpts=$(find $ckpts_path -name 'checkpoint_[0-9]_*.pt')
+
+len=0
+ed=0
+
+cp $ckpts_path/fairseq_train.log $generate_path
+for ckpt in $ckpts;do
+    temp=${ckpt##*_}
+    step=${temp%.*}
+    len=$(($len+1))
+    if [[ ${ed} -lt $step ]];then 
+        ed=$step
+    fi
+    fairseq-generate \
+        $data_bin_path \
+        --path $ckpt \
+        --results-path $generate_path/generate_${step}_beam${beam} \
+        --batch-size 128 \
+        --tokenizer moses \
+        --beam $beam \
+        --remove-bpe \
+        --gen-subset test \
+        --lenpen $lenpen
+    python3 mrt_scripts/analysis/split_hyp_from_fairseq_generate_command.py --prefix $generate_path/generate_${step}_beam${beam}
+    python3 mrt_scripts/analysis/hypo_freq_stat_command.py --generate_prefix $generate_path/generate_${step}_beam${beam}
+done
 ```
 
-If you use Docker make sure to increase the shared memory size either with
-`--ipc=host` or `--shm-size` as command line options to `nvidia-docker run`.
+**Step2: Calculate the Score of Each Metric**
 
-**Installing from source**
-
-To install fairseq from source and develop locally:
-```bash
-git clone https://github.com/pytorch/fairseq
-cd fairseq
-pip install --editable .
+cal BLEU
+```
+python3 mrt_scripts/metrics_test/bleu_test/cal_bleu_file_1.5.1_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
 ```
 
-# Getting Started
-
-The [full documentation](https://fairseq.readthedocs.io/) contains instructions
-for getting started, training new models and extending fairseq with new model
-types and tasks.
-
-# Pre-trained models and examples
-
-We provide pre-trained models and pre-processed, binarized test sets for several tasks listed below,
-as well as example training and evaluation commands.
-
-- [Translation](examples/translation/README.md): convolutional and transformer models are available
-- [Language Modeling](examples/language_model/README.md): convolutional and transformer models are available
-- [wav2vec](examples/wav2vec/README.md): wav2vec large model is available
-
-We also have more detailed READMEs to reproduce results from specific papers:
-- [Neural Machine Translation with Byte-Level Subwords (Wang et al., 2020)](examples/byte_level_bpe/README.md)
-- [Jointly Learning to Align and Translate with Transformer Models (Garg et al., 2019)](examples/joint_alignment_translation/README.md )
-- [Levenshtein Transformer (Gu et al., 2019)](examples/nonautoregressive_translation/README.md)
-- [Facebook FAIR's WMT19 News Translation Task Submission (Ng et al., 2019)](examples/wmt19/README.md)
-- [RoBERTa: A Robustly Optimized BERT Pretraining Approach (Liu et al., 2019)](examples/roberta/README.md)
-- [wav2vec: Unsupervised Pre-training for Speech Recognition (Schneider et al., 2019)](examples/wav2vec/README.md)
-- [Mixture Models for Diverse Machine Translation: Tricks of the Trade (Shen et al., 2019)](examples/translation_moe/README.md)
-- [Pay Less Attention with Lightweight and Dynamic Convolutions (Wu et al., 2019)](examples/pay_less_attention_paper/README.md)
-- [Understanding Back-Translation at Scale (Edunov et al., 2018)](examples/backtranslation/README.md)
-- [Classical Structured Prediction Losses for Sequence to Sequence Learning (Edunov et al., 2018)](https://github.com/pytorch/fairseq/tree/classic_seqlevel)
-- [Hierarchical Neural Story Generation (Fan et al., 2018)](examples/stories/README.md)
-- [Scaling Neural Machine Translation (Ott et al., 2018)](examples/scaling_nmt/README.md)
-- [Convolutional Sequence to Sequence Learning (Gehring et al., 2017)](examples/conv_seq2seq/README.md)
-- [Language Modeling with Gated Convolutional Networks (Dauphin et al., 2017)](examples/language_model/conv_lm/README.md)
-
-# Join the fairseq community
-
-* Facebook page: https://www.facebook.com/groups/fairseq.users
-* Google group: https://groups.google.com/forum/#!forum/fairseq-users
-
-# License
-fairseq(-py) is MIT-licensed.
-The license applies to the pre-trained models as well.
-
-# Citation
-
-Please cite as:
-
-```bibtex
-@inproceedings{ott2019fairseq,
-  title = {fairseq: A Fast, Extensible Toolkit for Sequence Modeling},
-  author = {Myle Ott and Sergey Edunov and Alexei Baevski and Angela Fan and Sam Gross and Nathan Ng and David Grangier and Michael Auli},
-  booktitle = {Proceedings of NAACL-HLT 2019: Demonstrations},
-  year = {2019},
-}
+cal BERTScore
 ```
+python3 mrt_scripts/metrics_test/bertscore_test/cal_bertscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+```
+
+cal BARTScore
+```
+python3 mrt_scripts/metrics_test/bartscore_test/cal_bartscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+```
+
+cal BLEURT
+```
+python3 mrt_scripts/metrics_test/bleurt_test/cal_bleurt_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
+```
+
+cal COMET
+```
+python3 mrt_scripts/metrics_test/comet_test/cal_comet_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
+```
+
+cal UniTE
+```
+python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info ref --generate_path $generate_path
+python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info src_ref --generate_path $generate_path
+```
+
+**Step3: Plot Training Process Figures**
+```
+python3 mrt_scripts/analysis/plot_metrics_change_command.py --len $len --ed $ed --lang $lang --this_metric $metric --generate_prefix $generate_path
+```
+then you can get a figure like this:
+![mrt_plot_metrics_en2de](figures/mrt_plot_metrics_en2de.png "mrt_plot_metrics_en2de")
+> The horizontal axis represents the training steps, and the vertical axis is the score of each metric  (except for BARTScore on the right axis, which is a negative number because it calculates the logarithmic probability of translations); metrics other than BARTScore and BLEU are mostly distributed between 0 and 1, and we multiply them uniformly by 100 for ease of observation. The asterisk represents the highest value achieved by the optimized metric.
+
+There may be universal translations if you find a circumstance where only one metric improves while the other declines.
