@@ -1,7 +1,7 @@
 # BLEURT Has Universal Translations: An Analysis of Automatic Metrics by Minimum Risk Training
 
 This repository contains the code for the ACL 2023 paper **BLEURT Has Universal Translations: An Analysis of Automatic Metrics by Minimum Risk Training**.
- 
+
 
 ## Universal Adversarial Translations
 We find universal adversarial translations of BLEURT and BARTScore, which are capable of obtaining high scores when evaluated against any reference sentence.
