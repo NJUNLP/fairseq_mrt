@@ -1,0 +1,21 @@
+fairseq-train \
+    /opt/tiger/fairseq/chat/data-bin/opensubtitle-en2fr \
+    --arch transformer_wmt_en_de_big \
+    -s en -t fr \
+    --share-decoder-input-output-embed \
+    --optimizer adam --adam-betas '(0.9, 0.98)' \
+    --max-update 300000 \
+    --lr 5e-4 --lr-scheduler inverse_sqrt --warmup-updates 4000 \
+    --criterion label_smoothed_cross_entropy --label-smoothing 0.1 \
+    --max-tokens 8192 \
+    --save-dir /opt/tiger/fairseq/chat/checkpoints/opensubtitle-en2fr \
+    --keep-best-checkpoints 10 \
+    --save-interval-updates 1000 \
+    --keep-interval-updates 10 \
+    --no-save-optimizer-state --no-epoch-checkpoints \
+    --eval-bleu \
+    --eval-bleu-args '{"beam": 5, "max_len_a": 1.2, "max_len_b": 10}' \
+    --eval-bleu-detok moses --eval-bleu-remove-bpe \
+    --eval-bleu-print-samples --best-checkpoint-metric bleu \
+    --maximize-best-checkpoint-metric --log-format simple \
+    --patience 40 --fp16 --max-source-positions 256 --max-target-positions 256
