@@ -11,7 +11,7 @@ An example is presented in the figure below:
 
 <img src="figures/bleurt_universal_translation_example.png" width = "500" alt="bleurt_universal_translation_example" align=center />
 
-$hypo$ means the translation sentence and $ref$ means the reference sentence. BLEURT needs to compare $hypo$ and $ref$ to judge the quality of $hypo$. This figure shows that the universal translation can achieve high BLEURT scores when calculated with each $ref$, even if $hypo$ and $ref$ are completely unrelated.
+ > $hypo$ means the translation sentence and $ref$ means the reference sentence. BLEURT needs to compare $hypo$ and $ref$ to judge the quality of $hypo$. This figure shows that the universal translation can achieve high BLEURT scores when calculated with each $ref$, even if $hypo$ and $ref$ are completely unrelated.
 
 
 ## Guide
