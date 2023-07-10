@@ -71,8 +71,8 @@ then
         python3 mrt_scripts/analysis/split_hyp_from_fairseq_generate_command.py --prefix $generate_path/generate_${step}_beam${beam}
         python3 mrt_scripts/analysis/hypo_freq_stat_command.py --generate_prefix $generate_path/generate_${step}_beam${beam}
 =======
-        python3 mello_scripts/analysis/split_hyp_from_fairseq_generate_command.py --prefix $generate_path/generate_${step}_beam${beam}
-        python3 mello_scripts/analysis/hypo_freq_stat_command.py --generate_prefix $generate_path/generate_${step}_beam${beam}
+        python3 mrt_scripts/analysis/split_hyp_from_fairseq_generate_command.py --prefix $generate_path/generate_${step}_beam${beam}
+        python3 mrt_scripts/analysis/hypo_freq_stat_command.py --generate_prefix $generate_path/generate_${step}_beam${beam}
 >>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
     done
     hadoop fs -put $generate_path hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/
@@ -96,7 +96,7 @@ then
 <<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bleu_test/cal_bleu_file_1.5.1_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
 =======
-        python3 mello_scripts/metrics_test/bleu_test/cal_bleu_file_1.5.1_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+        python3 mrt_scripts/metrics_test/bleu_test/cal_bleu_file_1.5.1_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
 >>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bleu_1.5.1.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
@@ -114,7 +114,7 @@ then
 <<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bertscore_test/cal_bertscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
 =======
-        python3 mello_scripts/metrics_test/bertscore_test/cal_bertscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+        python3 mrt_scripts/metrics_test/bertscore_test/cal_bertscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
 >>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bertscore.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
@@ -135,7 +135,7 @@ then
 <<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bartscore_test/cal_bartscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
 =======
-        python3 mello_scripts/metrics_test/bartscore_test/cal_bartscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+        python3 mrt_scripts/metrics_test/bartscore_test/cal_bartscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
 >>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bartscore.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
@@ -156,7 +156,7 @@ then
 <<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bleurt_test/cal_bleurt_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
 =======
-        python3 mello_scripts/metrics_test/bleurt_test/cal_bleurt_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
+        python3 mrt_scripts/metrics_test/bleurt_test/cal_bleurt_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
 >>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bleurt.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
@@ -174,7 +174,7 @@ then
         hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/code/COMET_mello .
         export CUBLAS_WORKSPACE_CONFIG=:16:8
         echo "#=========================== cal comet ===========================#"
-        python3 mello_scripts/metrics_test/comet_test/cal_comet_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
+        python3 mrt_scripts/metrics_test/comet_test/cal_comet_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
         hadoop fs -put $generate_path/stat_comet.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== comet calculated ===========================#"
@@ -191,9 +191,9 @@ then
         mkdir -p transformers
         hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/model/transformers/unite-mup ./transformers/
         echo "#=========================== cal unite ===========================#"
-        python3 mello_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info ref --generate_path $generate_path
+        python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info ref --generate_path $generate_path
         hadoop fs -put $generate_path/stat_unite_ref.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
-        python3 mello_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info src_ref --generate_path $generate_path
+        python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info src_ref --generate_path $generate_path
         hadoop fs -put $generate_path/stat_unite_src_ref.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== unite calculated ===========================#"
@@ -208,7 +208,7 @@ then
 <<<<<<< HEAD
         python3 mrt_scripts/analysis/plot_metrics_change_command.py --len $len --ed $ed --lang $lang --this_metric $metric --generate_prefix $generate_path
 =======
-        python3 mello_scripts/analysis/plot_metrics_change_command.py --len $len --ed $ed --lang $lang --this_metric $metric --generate_prefix $generate_path
+        python3 mrt_scripts/analysis/plot_metrics_change_command.py --len $len --ed $ed --lang $lang --this_metric $metric --generate_prefix $generate_path
 >>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/mrt_${lang}_${metric}_plot_metrics.jpg hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else

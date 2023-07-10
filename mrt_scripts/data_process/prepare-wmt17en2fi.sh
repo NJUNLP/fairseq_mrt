@@ -29,9 +29,6 @@ mkdir -p $orig $prep $tmp
 #     "http://data.statmt.org/wmt17/translation-task/rapid2016.tgz"
 # )
 
-# export HTTP_PROXY=http://sys-proxy-rd-relay.byted.org:8118
-# export HTTPS_PROXY=https://sys-proxy-rd-relay.byted.org:8118
-
 # cd $orig
 # for ((i=0;i<${#URLS[@]};++i)); do
 #     url=${URLS[i]}

@@ -1,2 +1,0 @@
-mrt/de2en/data-bin/wmt14_de2en_cased+mrt/de2en/checkpoints/wmt14_de2en_cased_0.1bertscore_0.9bartscore_beam12_lr5e-4_base_bleu31.4+0.1bertscore_0.9bartscore+4+0.6+" \
-cal_bleu cal_bertscore cal_bartscore cal_bleurt cal_comet cal_unite plot"

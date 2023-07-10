@@ -63,7 +63,7 @@ then
     echo "#=========================== prepare COMET environment ===========================#"
     pip3 install --upgrade pip
     hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/code/COMET_mello .
-    # python3 mello_scripts/comet_test/download_comet_model.py
+    # python3 mrt_scripts/comet_test/download_comet_model.py
     pip3 install sacrebleu==1.5.1
     export CUBLAS_WORKSPACE_CONFIG=:16:8
     mkdir -p transformers

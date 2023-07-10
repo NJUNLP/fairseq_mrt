@@ -1,2 +1,0 @@
-mrt/en2zh/data-bin/ldc_en2zh+mrt/en2zh/checkpoints/ldc_en2zh_bleurt_beam12_lr5e-4_base_bleu37.2+BLEURT+10+2.0+" \
-cal_bleu cal_bertscore cal_bartscore cal_bleurt cal_comet cal_unite plot"
