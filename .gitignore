@@ -1,6 +1,6 @@
 build/
 checkpoints/
-data/
+/data/
 data-bin/
 data_raw/
 data_for_finetune_metric/
