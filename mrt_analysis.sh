@@ -67,8 +67,13 @@ then
             --remove-bpe \
             --gen-subset test \
             --lenpen $lenpen
+<<<<<<< HEAD
         python3 mrt_scripts/analysis/split_hyp_from_fairseq_generate_command.py --prefix $generate_path/generate_${step}_beam${beam}
         python3 mrt_scripts/analysis/hypo_freq_stat_command.py --generate_prefix $generate_path/generate_${step}_beam${beam}
+=======
+        python3 mello_scripts/analysis/split_hyp_from_fairseq_generate_command.py --prefix $generate_path/generate_${step}_beam${beam}
+        python3 mello_scripts/analysis/hypo_freq_stat_command.py --generate_prefix $generate_path/generate_${step}_beam${beam}
+>>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
     done
     hadoop fs -put $generate_path hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/
 else
@@ -88,7 +93,11 @@ then
     if [ ! -f "$generate_path/stat_bleu_1.5.1.csv" ]
     then
         echo "#=========================== cal bleu ===========================#"
+<<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bleu_test/cal_bleu_file_1.5.1_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+=======
+        python3 mello_scripts/metrics_test/bleu_test/cal_bleu_file_1.5.1_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+>>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bleu_1.5.1.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== bleu calculated ===========================#"
@@ -102,7 +111,11 @@ then
         echo "#=========================== prepare bertscore environment ===========================#"
         hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/code/bert_score .
         echo "#=========================== cal bertscore ===========================#"
+<<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bertscore_test/cal_bertscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+=======
+        python3 mello_scripts/metrics_test/bertscore_test/cal_bertscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+>>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bertscore.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== bertscore calculated ===========================#"
@@ -119,7 +132,11 @@ then
         hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/model/transformers/bart-large-cnn ./transformers/
         hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/model/transformers/mbart-large-50 ./transformers/
         echo "#=========================== cal bartscore ===========================#"
+<<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bartscore_test/cal_bartscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+=======
+        python3 mello_scripts/metrics_test/bartscore_test/cal_bartscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
+>>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bartscore.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== bartscore calculated ===========================#"
@@ -136,7 +153,11 @@ then
         fi
         cd bleurt ; pip3 install -e . --no-deps ; cd ..
         echo "#=========================== cal bleurt ===========================#"
+<<<<<<< HEAD
         python3 mrt_scripts/metrics_test/bleurt_test/cal_bleurt_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
+=======
+        python3 mello_scripts/metrics_test/bleurt_test/cal_bleurt_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
+>>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/stat_bleurt.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== bleurt calculated ===========================#"
@@ -148,12 +169,12 @@ then
     if [ ! -f "$generate_path/stat_comet.csv" ]
     then
         echo "#=========================== prepare comet environment ===========================#"
-        pip3 install --upgrade pip -i https://bytedpypi.byted.org/simple
-        pip3 install sacrebleu==1.5.1 -i https://bytedpypi.byted.org/simple
+        pip3 install --upgrade pip
+        pip3 install sacrebleu==1.5.1
         hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/code/COMET_mello .
         export CUBLAS_WORKSPACE_CONFIG=:16:8
         echo "#=========================== cal comet ===========================#"
-        python3 mrt_scripts/metrics_test/comet_test/cal_comet_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
+        python3 mello_scripts/metrics_test/comet_test/cal_comet_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
         hadoop fs -put $generate_path/stat_comet.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== comet calculated ===========================#"
@@ -170,9 +191,9 @@ then
         mkdir -p transformers
         hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/model/transformers/unite-mup ./transformers/
         echo "#=========================== cal unite ===========================#"
-        python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info ref --generate_path $generate_path
+        python3 mello_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info ref --generate_path $generate_path
         hadoop fs -put $generate_path/stat_unite_ref.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
-        python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info src_ref --generate_path $generate_path
+        python3 mello_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info src_ref --generate_path $generate_path
         hadoop fs -put $generate_path/stat_unite_src_ref.csv hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== unite calculated ===========================#"
@@ -184,7 +205,11 @@ then
     if [ ! -f "$generate_path/mrt_${lang}_${metric}_plot_metrics.jpg" ]
     then
         echo "#=========================== plot metrics ===========================#"
+<<<<<<< HEAD
         python3 mrt_scripts/analysis/plot_metrics_change_command.py --len $len --ed $ed --lang $lang --this_metric $metric --generate_prefix $generate_path
+=======
+        python3 mello_scripts/analysis/plot_metrics_change_command.py --len $len --ed $ed --lang $lang --this_metric $metric --generate_prefix $generate_path
+>>>>>>> 0db1bf519ea52322b5cef10b1c9a9f5be8b9caba
         hadoop fs -put $generate_path/mrt_${lang}_${metric}_plot_metrics.jpg hdfs://haruna/home/byte_arnold_lq_mlnlc/user/yanyiming.mello/${cmd2}/analysis/
     else
         echo "#=========================== already plotted ===========================#"

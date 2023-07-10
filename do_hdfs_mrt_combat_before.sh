@@ -32,8 +32,8 @@ hdfs dfs -get ${yanym_prefix}/${cmd1} data-bin/
 hdfs dfs -get ${yanym_prefix}/${reload_ckpt_path} data-bin/${cmd1##*/}/
 
 echo "#=========================== prepare COMET environment ===========================#"
-pip3 install --upgrade pip -i https://bytedpypi.byted.org/simple
-pip3 install sacrebleu==1.5.1 -i https://bytedpypi.byted.org/simple
+pip3 install --upgrade pip
+pip3 install sacrebleu==1.5.1
 export CUBLAS_WORKSPACE_CONFIG=:16:8
 hdfs dfs -get ${yanym_prefix}/code/COMET_mello .
 cd COMET_mello

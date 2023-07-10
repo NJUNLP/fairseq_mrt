@@ -61,15 +61,13 @@ fi
 if [[ $cmd4 =~ "comet" ]]
 then
     echo "#=========================== prepare COMET environment ===========================#"
-    pip3 install --upgrade pip -i https://bytedpypi.byted.org/simple
-    # pip3 install unbabel-comet -i https://bytedpypi.byted.org/simple
+    pip3 install --upgrade pip
     hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/code/COMET_mello .
-    # python3 mrt_scripts/comet_test/download_comet_model.py
-    pip3 install sacrebleu==1.5.1 -i https://bytedpypi.byted.org/simple
+    # python3 mello_scripts/comet_test/download_comet_model.py
+    pip3 install sacrebleu==1.5.1
     export CUBLAS_WORKSPACE_CONFIG=:16:8
     mkdir -p transformers
     hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/model/transformers/xlm-roberta-large-for-comet ./transformers/
-    # pip3 install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113 -i https://bytedpypi.byted.org/simple
 fi
 
 if [[ $cmd4 =~ "unite" ]]
@@ -79,7 +77,6 @@ then
     hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/model/UniTE-models .
     mkdir -p transformers
     hadoop fs -get /home/byte_arnold_lq_mlnlc/user/yanyiming.mello/model/transformers/unite-mup ./transformers/
-    # pip3 install torchmetrics==0.5.0 -i https://bytedpypi.byted.org/simple
 fi
 
 echo "#=========================== start training ! ===========================#"

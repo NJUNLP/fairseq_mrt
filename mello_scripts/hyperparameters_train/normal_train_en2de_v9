@@ -1,0 +1,31 @@
+mrt/en2de/data-bin/wmt14_en2de_cased+wmt14_en2de_cased_normal_train_change_v9+mrt/en2de/checkpoints+"fairseq-train \
+    data-bin/wmt14_en2de_cased \
+    --arch transformer \
+    -s en -t de \
+    --save-dir checkpoints/wmt14_en2de_cased_normal_train_change_v9 \
+    --reset-dataloader \
+    --share-decoder-input-output-embed \
+    --max-epoch 100 \
+    --optimizer adam \
+    --adam-betas '(0.9, 0.98)' \
+    --clip-norm 0.0 \
+    --lr 7e-4 \
+    --lr-scheduler inverse_sqrt \
+    --warmup-updates 4000 \
+    --criterion label_smoothed_cross_entropy \
+    --label-smoothing 0.1 \
+    --max-tokens 8192 \
+    --dropout 0.1 \
+    --keep-best-checkpoints 10 \
+    --keep-interval-updates 20 \
+    --no-save-optimizer-state \
+    --eval-bleu \
+    --eval-bleu-args '{\"beam\": 4, \"max_len_a\": 1.2, \"max_len_b\": 10}' \
+    --eval-bleu-detok moses \
+    --eval-bleu-remove-bpe \
+    --best-checkpoint-metric bleu \
+    --maximize-best-checkpoint-metric \
+    --save-interval-updates 1000 \
+    --log-format simple \
+    --log-interval 50 \
+    --update-freq 1"

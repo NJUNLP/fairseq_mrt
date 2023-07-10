@@ -1,0 +1,36 @@
+mrt/zh2en/data-bin/ldc_zh2en+ldc_zh2en_normal_train_change_v3_sep32k+mrt/zh2en/checkpoints+"fairseq-train \
+    data-bin/ldc_zh2en \
+    --arch transformer \
+    -s zh -t en \
+    --save-dir checkpoints/ldc_zh2en_normal_train_change_v3_sep32k \
+    --reset-dataloader \
+    --share-all-embeddings \
+    --optimizer adam \
+    --adam-betas '(0.9, 0.98)' \
+    --clip-norm 0.0 \
+    --lr 7e-4 \
+    --min-lr 1e-9 \
+    --lr-scheduler inverse_sqrt \
+    --warmup-init-lr 1e-07 \
+    --warmup-updates 4000 \
+    --criterion label_smoothed_cross_entropy \
+    --label-smoothing 0.1 \
+    --max-tokens 8192 \
+    --dropout 0.1 \
+    --keep-best-checkpoints 10 \
+    --keep-interval-updates 20 \
+    --no-save-optimizer-state \
+    --eval-bleu \
+    --eval-bleu-args '{\"beam\": 4, \"max_len_a\": 1.2, \"max_len_b\": 10}' \
+    --eval-bleu-detok moses \
+    --eval-bleu-remove-bpe \
+    --best-checkpoint-metric bleu \
+    --maximize-best-checkpoint-metric \
+    --max-source-positions 256 \
+    --max-target-positions 256 \
+    --skip-invalid-size-inputs-valid-test \
+    --save-interval-updates 500 \
+    --log-format simple \
+    --log-interval 50 \
+    --update-freq 1 \
+    --patience 40"
