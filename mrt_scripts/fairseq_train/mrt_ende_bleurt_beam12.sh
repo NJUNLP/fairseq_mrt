@@ -1,3 +1,16 @@
+# Take En->De as an example
+mkdir -p data-bin checkpoints log
+cd data-bin
+wget https://huggingface.co/datasets/powerpuffpomelo/fairseq_mrt_dataset/resolve/main/wmt14_en2de_cased.zip
+unzip wmt14_en2de_cased.zip
+cd ../
+wget https://huggingface.co/powerpuffpomelo/fairseq_mrt_metric_model/resolve/main/bleurt.zip
+unzip bleurt.zip
+cd bleurt ; pip3 install -e . --no-deps ; cd ..
+GPU_NUM=`nvidia-smi |grep On|wc -l`
+echo start bleurt rpc server with $GPU_NUM gpus ...
+python3 rpc_bleurt.py -m bleurt/BLEURT-20 -process ${GPU_NUM} > log/bleurt_rpc.log 2>&1 &
+
 # export CUDA_VISIBLE_DEVICES=0,1,2,3
 fairseq-train \
     data-bin/wmt14_en2de_cased \
