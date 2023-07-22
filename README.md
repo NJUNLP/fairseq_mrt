@@ -21,10 +21,12 @@ An example is presented in the figure below:
 
 Train with conventional negative log-likelihood (NLL) loss
 
+<!-- 
 ```
 # Take En->De as example
 bash mrt_scripts\fairseq_train\fairseq_train_normal_ende.sh
 ```
+-->
 
 **Step 2:  MRT training phase**
 
@@ -32,7 +34,18 @@ Fine-tune the model with each metric, so as to obtain translation models with va
 
 ```
 # Take En->De as example
-bash mrt_scripts\fairseq_train\fairseq_train_mrt_ende_bleurt_beam12.sh
+mkdir -p data-bin checkpoints
+cd data-bin
+wget https://huggingface.co/datasets/powerpuffpomelo/fairseq_mrt_dataset/resolve/main/wmt14_en2de_cased.zip
+unzip wmt14_en2de_cased.zip
+cd ../
+wget https://huggingface.co/powerpuffpomelo/fairseq_mrt_metric_model/resolve/main/bleurt.zip
+unzip bleurt.zip
+cd bleurt ; pip3 install -e . --no-deps ; cd ..
+GPU_NUM=`nvidia-smi |grep On|wc -l`
+echo start bleurt rpc server with $GPU_NUM gpus ...
+python3 rpc_bleurt.py -m bleurt/BLEURT-20 -process ${GPU_NUM} > log/bleurt_rpc.log 2>&1 &
+bash mrt_scripts/fairseq_train/mrt_ende_bleurt_beam12.sh
 ```
 
 ### Analyze Training Process
