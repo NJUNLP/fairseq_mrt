@@ -16,6 +16,11 @@ An example is presented in the figure below:
 
 
 ## Guide
+```
+# install fairseq
+sudo mkdir /usr/lib/python3.7/site-packages
+sudo pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple --editable .
+```
 ### MRT Training
 **Step1: Maximum Likelihood Estimation (MLE) training phase**
 
@@ -33,8 +38,8 @@ bash mrt_scripts\fairseq_train\fairseq_train_normal_ende.sh
 Fine-tune the model with each metric, so as to obtain translation models with various metric styles
 
 ```
-# Take En->De as example
-mkdir -p data-bin checkpoints
+# Take En->De as an example
+mkdir -p data-bin checkpoints log
 cd data-bin
 wget https://huggingface.co/datasets/powerpuffpomelo/fairseq_mrt_dataset/resolve/main/wmt14_en2de_cased.zip
 unzip wmt14_en2de_cased.zip
@@ -50,73 +55,15 @@ bash mrt_scripts/fairseq_train/mrt_ende_bleurt_beam12.sh
 
 ### Analyze Training Process
 **Step1: Generate Hypothesis Sentences from the Training Process**
-```
-generate_path=$ckpts_path/analysis
-mkdir -p $generate_path
-ckpts=$(find $ckpts_path -name 'checkpoint_[0-9]_*.pt')
 
-len=0
-ed=0
-
-cp $ckpts_path/fairseq_train.log $generate_path
-for ckpt in $ckpts;do
-    temp=${ckpt##*_}
-    step=${temp%.*}
-    len=$(($len+1))
-    if [[ ${ed} -lt $step ]];then 
-        ed=$step
-    fi
-    fairseq-generate \
-        $data_bin_path \
-        --path $ckpt \
-        --results-path $generate_path/generate_${step}_beam${beam} \
-        --batch-size 128 \
-        --tokenizer moses \
-        --beam $beam \
-        --remove-bpe \
-        --gen-subset test \
-        --lenpen $lenpen
-    python3 mrt_scripts/analysis/split_hyp_from_fairseq_generate_command.py --prefix $generate_path/generate_${step}_beam${beam}
-    python3 mrt_scripts/analysis/hypo_freq_stat_command.py --generate_prefix $generate_path/generate_${step}_beam${beam}
-done
-```
 
 **Step2: Calculate the Score of Each Metric**
 
-cal BLEU
-```
-python3 mrt_scripts/metrics_test/bleu_test/cal_bleu_file_1.5.1_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
-```
-
-cal BERTScore
-```
-python3 mrt_scripts/metrics_test/bertscore_test/cal_bertscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
-```
-
-cal BARTScore
-```
-python3 mrt_scripts/metrics_test/bartscore_test/cal_bartscore_file_command.py --len $len --ed $ed --beam $beam --lang $lang --generate_path $generate_path
-```
-
-cal BLEURT
-```
-python3 mrt_scripts/metrics_test/bleurt_test/cal_bleurt_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
-```
-
-cal COMET
-```
-python3 mrt_scripts/metrics_test/comet_test/cal_comet_file_command.py --len $len --ed $ed --beam $beam --generate_path $generate_path
-```
-
-cal UniTE
-```
-python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info ref --generate_path $generate_path
-python3 mrt_scripts/metrics_test/unite_test/cal_unite_file_command.py --len $len --ed $ed --beam $beam --info src_ref --generate_path $generate_path
-```
 
 **Step3: Plot Training Process Figures**
 ```
-python3 mrt_scripts/analysis/plot_metrics_change_command.py --len $len --ed $ed --lang $lang --this_metric $metric --generate_prefix $generate_path
+# Take En->De as an example, you can run this script to perform the above three steps:
+bash mrt_scripts/fairseq_analysis/mrt_analysis_bleurt_en2de.sh
 ```
 then you can get a figure like this:
 ![mrt_plot_metrics_en2de](figures/mrt_plot_metrics_en2de.png "mrt_plot_metrics_en2de")
